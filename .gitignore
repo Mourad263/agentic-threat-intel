@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+# Local secrets and app mode overrides
+.env
+.vscode/
+chroma_db/
+feedback.jsonl
+.pycache_tmp/
+data/
